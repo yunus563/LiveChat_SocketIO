@@ -1,0 +1,14 @@
+{
+  "name": "Live chat",
+  "description": "",
+  "main": "app.js",
+  "authors": [
+    "yusuf <yusufsaydullayev@gmail.com>"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "angular": "^1.8.0",
+    "semantic": "^2.4.1",
+    "jquery": "^3.5.1"
+  }
+}

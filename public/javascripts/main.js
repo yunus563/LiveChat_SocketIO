@@ -1,0 +1,1 @@
+const app = angular.module('app', []) //Angularni funksiyalarini ishlatvommiza
